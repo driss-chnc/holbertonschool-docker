@@ -1,0 +1,5 @@
+Instruction,Behavior
+FROM,Reused from cache
+COPY,Reused from cache
+RUN,Rebuilt after modification
+CMD,Rebuilt after modification
